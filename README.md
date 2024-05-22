@@ -1,52 +1,25 @@
-# Project Name
-> Outline a brief description of your project.
+# Housing Price Prediction Advanced Regression Assignment
+> I'm working on this project for Surprise Housing, a US company that flips houses in Australia. They're all about using data to snag properties below market value and then resell them for a profit.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Surprise Housing has a bunch of data on Australian house sales stored in a file called "test.csv".
+- We want to build a model using regression techniques to predict house prices.
+- This way, we can figure out which properties are gonna be good investments before we buy.
+- the model will use Ridge and Lasso to pinpoint the most important factors that affect house prices.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- Python - version 3.10.12
+- Numpy - version 1.25.2
+- Pandas - version 1.5.3
+- Matplotlib - version 3.7.1
+- Seaborn - version 0.13.1
+- scikit-learn - version 1.4.1
+- statsmodels - 0.14.1
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@tusharadi25] - feel free to contact me!
